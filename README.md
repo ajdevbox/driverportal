@@ -3,7 +3,7 @@
 
 A local private hire company with 1200+ drivers faces challenges in efficiently managing day-to-day operations and addressing repetitive queries. To optimize their processes, the company plans to develop a driver portal app. However, the lack of automation leads to delays, errors when sending out emails, and increased administrative workload.
 
-The app aims to automate tasks and establish a dedicated drivers' portal. It will enable drivers to access essential information, submit documents via the portal, and receive licensing and industry practice notifications. 
+The app aims to automate tasks and establish a dedicated drivers' portal. It will enable drivers to access essential information, submit documents via the portal receive licensing updates and industry practice notifications. 
 
 Additionally, it will provide daily and weekly job analyses to maximize driver's income potential. 
 
