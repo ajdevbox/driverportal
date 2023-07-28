@@ -1,13 +1,25 @@
 ## Project Intro
 ![project heading](md_notes/repo_header.png)
 
-A local private hire company with 1200+ drivers faces challenges in efficiently managing day-to-day operations and addressing repetitive queries. To optimize their processes, the company plans to develop a driver portal app. However, the lack of automation leads to delays, errors when sending out emails, and increased administrative workload.
+A local private hire company with 1200+ drivers faces challenges in efficiently managing day-to-day operations and addressing repetitive queries. 
 
-The app aims to automate tasks and establish a dedicated drivers' portal. It will enable drivers to access essential information, submit documents via the portal receive licensing updates and industry practice notifications. 
+To optimize their processes, the company plans to develop a driver portal app. However, the lack of automation leads to delays, errors when sending out emails, and increased administrative workload.
+
+The app aims to automate tasks and establish a dedicated drivers' portal. It will enable drivers to 
+
+* access live information regarding completed jobs
+* submit documents via the portal
+* receive licensing updates and
+* industry practice notifications. 
 
 Additionally, it will provide daily and weekly job analyses to maximize driver's income potential. 
 
-By streamlining communication and automating processes, the company aims to enhance productivity and collaboration with drivers, reducing administrative burden and improving operational efficiency.
+By streamlining communication and automating processes, the company aims to 
+
+* enhance productivity
+* collaboration with drivers,
+* reducing administrative burden and
+* improving operational efficiency.
 
 ## Figma UI Deign 
 ![project heading](md_notes/repo_figma.png)
